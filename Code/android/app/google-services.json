@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215087204897",
+    "project_id": "aadhar-adress-update",
+    "storage_bucket": "aadhar-adress-update.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215087204897:android:6a4717321738492f28b160",
+        "android_client_info": {
+          "package_name": "com.monsterbinesh18.aadhaar_address_update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215087204897-85v5sc2qrm0bvrreg7sik52u9qdeknpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_kj6NaETww9Yhjfpx1PpY-eDi7hGcuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215087204897-85v5sc2qrm0bvrreg7sik52u9qdeknpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
